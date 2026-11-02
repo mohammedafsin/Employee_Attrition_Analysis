@@ -6,7 +6,7 @@ Dashboard Preview
 
 <img width="1225" height="687" alt="Screenshot 2026-11-02 215943" src="https://github.com/user-attachments/assets/069547e9-0e70-4128-a24e-8f6ff1d2d1ae" />
 
-<h1> **Project Objective**
+<h4> **Project Objective** </h4>
 
 To analyse employee attrition, identify employee groups with comparatively higher turnover, and communicate findings that can help HR teams plan retention initiatives.
 
