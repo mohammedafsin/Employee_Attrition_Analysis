@@ -1,37 +1,109 @@
+Employee Attrition Analysis
+
+An HR analytics project that explores employee turnover patterns using the IBM HR Employee Attrition dataset. The project covers data understanding, data cleaning, exploratory data analysis (EDA), HR KPIs, visualizations, an interactive dashboard, and business recommendations.
+
+Dashboard Preview
+
+<img width="1225" height="687" alt="Screenshot 2026-11-02 215943" src="https://github.com/user-attachments/assets/069547e9-0e70-4128-a24e-8f6ff1d2d1ae" />
+
+Project Objective
+
+To analyse employee attrition, identify employee groups with comparatively higher turnover, and communicate findings that can help HR teams plan retention initiatives.
+
+Dataset
+
+Records: 1,470 employees
+
+Features: 35 columns in the source dataset
+
+Employees who left: 237
+
+Employees who stayed: 1,233
+
+Missing values: 0
+
+Duplicate rows: 0
+
+Tools & Technologies
+
+Python
+
+Pandas and NumPy
+
+Matplotlib and Seaborn
+
+Plotly
+
+Jupyter Notebook
+
+Power BI / Tableau (for further dashboard development)
+
+Project Workflow
+
+Data understanding: Reviewed the dataset structure, columns, and data types.
+
+Data cleaning: Checked missing values, duplicate records, and data quality.
+
+Exploratory data analysis: Analysed attrition across departments, job roles, overtime, age groups, marital status, and work-life balance.
+
+HR metrics: Calculated employee count, employees left, active employees, and attrition rate.
+
+Dashboard: Created an interactive HTML dashboard using Plotly.
+
+Business insights: Summarised key patterns and suggested retention actions.
+
+Key Findings
+
+Metric / Segment
+
+Result
+
+Total employees
+
+1,470
+
+Employees left
+
+237
+
+Active employees
+
+1,233
+
+Overall attrition rate
+
+16.12%
+
+Average monthly income
+
+6,502.93
+
+Attrition rate — overtime
+
+30.53%
+
+Attrition rate — no overtime
+
+10.44%
+
+Attrition rate — Sales department
+
+20.63%
+
+Attrition rate — Human Resources
+
+19.05%
+
+Attrition rate — Research & Development
+
+13.84%
+
+Highest job-role attrition — Sales Representative
+
+39.76%
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-10. Key Insights from the Analysis
+Key Insights from the Analysis
 
 After analysing the employee attrition dataset, I found that out of 1,470 employees, 237 employees have left the organisation, resulting in an overall attrition rate of 16.12%. The organisation currently has 1,233 active employees.
 
@@ -53,7 +125,7 @@ The major findings are:
 
 Overall, the analysis shows that overtime, job roles, age groups and work-life balance are important areas for the organisation to focus on when improving employee retention.
 
-11. Business Recommendations to Reduce Employee Attrition
+Business Recommendations to Reduce Employee Attrition
 
 Based on the analysis, I would recommend the following actions to the organisation:
 
