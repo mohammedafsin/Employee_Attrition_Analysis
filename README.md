@@ -24,7 +24,7 @@ Missing values: 0
 
 Duplicate rows: 0
 
-Tools & Technologies
+<h3> Tools & Technologies </h3>
 
 Python
 
@@ -38,7 +38,7 @@ Jupyter Notebook
 
 Power BI / Tableau (for further dashboard development)
 
-Project Workflow
+<h3> Project Workflow </h3>
 
 Data understanding: Reviewed the dataset structure, columns, and data types.
 
@@ -52,58 +52,31 @@ Dashboard: Created an interactive HTML dashboard using Plotly.
 
 Business insights: Summarised key patterns and suggested retention actions.
 
-Key Findings
+<h3> Key Findings </h3>
 
-Metric / Segment
+Total employees - 1,470
 
-Result
+Employees left - 237
 
-Total employees
+Active employees - 1,233
 
-1,470
+Overall attrition rate - 16.12%
 
-Employees left
+Average monthly income - 6,502.93
 
-237
+Attrition rate — overtime - 30.53%
 
-Active employees
+Attrition rate — no overtime - 10.44%
 
-1,233
+Attrition rate — Sales department - 20.63%
 
-Overall attrition rate
+Attrition rate — Human Resources - 19.05%
 
-16.12%
+Attrition rate — Research & Development - 13.84%
 
-Average monthly income
+Highest job-role attrition — Sales Representative - 39.76%
 
-6,502.93
-
-Attrition rate — overtime
-
-30.53%
-
-Attrition rate — no overtime
-
-10.44%
-
-Attrition rate — Sales department
-
-20.63%
-
-Attrition rate — Human Resources
-
-19.05%
-
-Attrition rate — Research & Development
-
-13.84%
-
-Highest job-role attrition — Sales Representative
-
-39.76%
-
-
-Key Insights from the Analysis
+<h3> Key Insights from the Analysis </h3>
 
 After analysing the employee attrition dataset, I found that out of 1,470 employees, 237 employees have left the organisation, resulting in an overall attrition rate of 16.12%. The organisation currently has 1,233 active employees.
 
@@ -125,7 +98,7 @@ The major findings are:
 
 Overall, the analysis shows that overtime, job roles, age groups and work-life balance are important areas for the organisation to focus on when improving employee retention.
 
-Business Recommendations to Reduce Employee Attrition
+<h3> Business Recommendations to Reduce Employee Attrition </h3>
 
 Based on the analysis, I would recommend the following actions to the organisation:
 
