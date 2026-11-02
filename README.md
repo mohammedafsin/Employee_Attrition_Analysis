@@ -27,11 +27,16 @@ Duplicate rows: 0
 <h3> Tools & Technologies </h3>
 
 Python
+
 Pandas and NumPy
+
 Matplotlib and Seaborn
+
 Plotly
+
 Jupyter Notebook
-Power BI / Tableau (for further dashboard development)
+
+Power BI 
 
 <h3> Project Workflow </h3>
 
