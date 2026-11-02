@@ -1,4 +1,4 @@
-**Employee Attrition Analysis**
+<h3> Employee Attrition Analysis </h3>
 
 An HR analytics project that explores employee turnover patterns using the IBM HR Employee Attrition dataset. The project covers data understanding, data cleaning, exploratory data analysis (EDA), HR KPIs, visualizations, an interactive dashboard, and business recommendations.
 
@@ -6,11 +6,11 @@ Dashboard Preview
 
 <img width="1225" height="687" alt="Screenshot 2026-11-02 215943" src="https://github.com/user-attachments/assets/069547e9-0e70-4128-a24e-8f6ff1d2d1ae" />
 
-<h3> **Project Objective** </h3>
+<h3> Project Objective </h3>
 
 To analyse employee attrition, identify employee groups with comparatively higher turnover, and communicate findings that can help HR teams plan retention initiatives.
 
-**Dataset**
+<h3> Dataset </h3>
 
 Records: 1,470 employees
 
