@@ -118,7 +118,7 @@ Based on the analysis, I would recommend the following actions to the organisati
 
 8. Conduct exit interviews: Management should understand why employees leave and use their feedback to improve retention strategies.
 
-Conclusion
+<h3> Conclusion </h3>
 
 Through this Employee Attrition Analysis, I understood that employee turnover is an important issue that can affect an organisation's performance and productivity. The analysis identified higher attrition among Sales Representatives, employees working overtime, younger employees and those with poor work-life balance.
 
